@@ -22,30 +22,55 @@
     position: fixed;
     top: 0;
     left: 0;
+    z-index: 1000; /* Add a high z-index to ensure it's displayed above other content */
   }
-
+  
   .main_navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
+    flex-wrap: wrap; /* Allow the items to wrap to the next line */
   }
-
+  
   .main_navbar li {
     display: inline;
   }
-
+  
   .main_navbar li a {
     color: #fff;
     text-decoration: none;
     padding: 5px 10px;
   }
-
+  
   .main_navbar li a:hover {
     background-color: #fff;
     color: hsl(210, 15%, 20%);
     border-radius: 4px;
   }
+  
+  /* Add a media query to adjust styles for smaller screens */
+  @media (max-width: 768px) {
+    .main_navbar {
+      flex-direction: column; /* Stack items vertically */
+      align-items: flex-start; /* Align items to the left */
+      padding-top: 20px; /* Increase top padding for better spacing */
+    }
+  
+    .main_navbar ul {
+      justify-content: flex-start; /* Align items to the left */
+    }
+  
+    .main_navbar li {
+      display: block; /* Display items as block elements */
+      margin-bottom: 10px; /* Add spacing between items */
+    }
+  
+    .main_navbar li:last-child {
+      margin-bottom: 0; /* Remove bottom margin from the last item */
+    }
+  }
+  
     .animated-header {
   font-size: 36px;
   animation: slideInLeftAndStay 5s ease-in-out 1s infinite;
