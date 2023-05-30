@@ -23,7 +23,7 @@ function App() {
       <div className="container">
         <section id="about">
           <div className="container">
-            <img src={myImage} alt="Profile Image" className="profile-image" />
+            <img src={myImage}  className="profile-image" />
             <h2 style={{ textAlign: 'center' }}>About Me</h2>
             <div className="row">
               <div className="container">
@@ -98,6 +98,7 @@ function App() {
               <label htmlFor="message">Message</label>
               <textarea className="form-control" id="message" rows="5" placeholder="Enter your message"></textarea>
             </div>
+            <br/>
             <button type="submit" className="btn btn-primary">Submit</button>
           </form>
         </section>
