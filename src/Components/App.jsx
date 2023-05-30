@@ -14,9 +14,9 @@ function App() {
       <Navbar/>
 
       <header>
-      <br/><br/>
+
         <div className="container">
-          <br /><br /><br />
+          <br /><br /><br /><br /><br /><br />
           <h1 className="animated-header">Muhammad Amjad</h1>
           <p className="animated-subheader">Web Developer | Software Engineer</p>
         </div>
