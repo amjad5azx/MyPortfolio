@@ -10,9 +10,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
   return (
     <div>
-      <Navbar />
+      
 
       <header>
+      <Navbar />
+      <br/><br/>
         <div className="container">
           <br /><br /><br />
           <h1 className="animated-header">Muhammad Amjad</h1>
