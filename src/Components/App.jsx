@@ -75,7 +75,7 @@ function App() {
           <ul>
             <li>Bachelor of Software Engineering (Ongoing) from
               Bahria University Karachi Campus,
-              Expected Year of Graduation: [2024]</li>
+              Expected Year of Graduation: [2024] with Current CGPA: [3.44]</li>
           </ul>
         </section>
 
