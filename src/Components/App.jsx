@@ -87,7 +87,7 @@ function App() {
 
         <section id="contact">
           <h2>Contact</h2>
-          <form className="contact-form" action="https://formsubmit.co/muhammadamjad00@gmail.com" method="POST" >
+          <form className="contact-form" action="https://formsubmit.co/c6f5103747869730861fedb6a87335ba" method="POST" >
             <div className="form-group">
               <label htmlFor="name">Name</label>
               <input type="text" className="form-control" id="name" name="name" placeholder="Enter your name" required />
