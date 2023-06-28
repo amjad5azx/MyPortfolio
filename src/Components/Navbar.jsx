@@ -18,7 +18,7 @@ const Navbar = () => {
         <li><a href="#github">GitHub</a></li>
         <li><a href="#contact">Contact</a></li>
         <li>
-        <a href="https://www.dropbox.com/home?preview=resume.pdf" download="resume.pdf" target='_blank'>
+        <a href="https://www.dropbox.com/s/vnmu5h9yxfogv3r/resume.pdf?dl=0" download="resume.pdf" target='_blank'>
           Download Resume
         </a>
         </li>
