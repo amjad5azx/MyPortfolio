@@ -87,18 +87,18 @@ function App() {
 
         <section id="contact">
           <h2>Contact</h2>
-          <form className="contact-form">
+          <form className="contact-form" action="https://formsubmit.co/muhammadamjad00@gmail.com" method="POST" >
             <div className="form-group">
               <label htmlFor="name">Name</label>
-              <input type="text" className="form-control" id="name" placeholder="Enter your name" />
+              <input type="text" className="form-control" id="name" name="name" placeholder="Enter your name" required />
             </div>
             <div className="form-group">
               <label htmlFor="email">Email</label>
-              <input type="email" className="form-control" id="email" placeholder="Enter your email" />
+              <input type="email" className="form-control" id="email" name="email" placeholder="Enter your email" required />
             </div>
             <div className="form-group">
               <label htmlFor="message">Message</label>
-              <textarea className="form-control" id="message" rows="5" placeholder="Enter your message"></textarea>
+              <textarea className="form-control" id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
             </div>
             <br/>
             <button type="submit" className="btn btn-primary">Submit</button>
