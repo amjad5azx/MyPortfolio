@@ -63,7 +63,7 @@ function App() {
           <h2>Skills</h2>
           <ul className="skills">
             <li>MERN Stack (Mongo DB, Express JS, Node JS)</li>
-            <li>Asp.net (.net Framework) Web Forms</li>
+            <li>Asp.net (.net Framework) Web Forms + MVC</li>
             <li>SQL Server</li>
             <li>Java, C# and C++ Programming</li>
             <li>HTML & CSS</li>
