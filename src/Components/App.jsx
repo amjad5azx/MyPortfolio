@@ -35,7 +35,7 @@ function App() {
                   In addition to my proficiency in the MERN stack and C#, I am familiar with HTML, CSS, JavaScript, Java, and C++. I believe in continuously expanding my skill set and staying updated with the latest technologies in the field of software development.
                   As an aspiring software engineer, I am dedicated to learning and growing in the industry. Currently, I am focusing on enhancing my full-stack development skills and exploring new frameworks and libraries to create efficient and user-friendly web solutions.
                 </p>
-                <p><strong>Download my Resume: </strong><a href="https://www.dropbox.com/s/vnmu5h9yxfogv3r/resume.pdf?dl=0" download="resume.pdf" target='_blank'>Download Resume</a></p>
+                <p><strong>Download my Resume: </strong><a href="https://www.dropbox.com/scl/fi/1umb3jj8l69hjimftaxuv/Amjad_Resume-1.docx?rlkey=4ydhcjf41lh26os2llgwxt6ec&st=m45w2fk2&dl=0" download="resume.pdf" target='_blank'>Download Resume</a></p>
               </div>
             </div>
           </div>
