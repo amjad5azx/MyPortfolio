@@ -30,10 +30,11 @@ function App() {
             <div className="row">
               <div className="container">
                 <p>
-                  Hi, I'm Muhammad Amjad, an undergraduate student in the Software Engineering Department at Bahria University Karachi Campus. I have a strong passion for web development and enjoy working with various technologies and frameworks.
+                  {/* Hi, I'm Muhammad Amjad, an undergraduate student in the Software Engineering Department at Bahria University Karachi Campus. I have a strong passion for web development and enjoy working with various technologies and frameworks.
                   I have experience working on both front-end and back-end development. On the back-end, I have worked with the MERN (MongoDB, Express, React, Node.js) stack to develop web applications, implementing functionalities and APIs. Additionally, I have worked with C# ASP.NET framework web forms and SQL Server Database, gaining knowledge in server-side programming and database management.
                   In addition to my proficiency in the MERN stack and C#, I am familiar with HTML, CSS, JavaScript, Java, and C++. I believe in continuously expanding my skill set and staying updated with the latest technologies in the field of software development.
-                  As an aspiring software engineer, I am dedicated to learning and growing in the industry. Currently, I am focusing on enhancing my full-stack development skills and exploring new frameworks and libraries to create efficient and user-friendly web solutions.
+                  As an aspiring software engineer, I am dedicated to learning and growing in the industry. Currently, I am focusing on enhancing my full-stack development skills and exploring new frameworks and libraries to create efficient and user-friendly web solutions. */}
+                  I am a backend developer experienced in Node.js and C# ASP.NET Framework, with a solid understanding of SQL Server Database. My skill set also includes HTML, CSS, JavaScript, Java, and C++. I recently developed an Expense Tracker using Django and deployed it on AWS EC2, showcasing proficiency in AWS deployment.
                 </p>
                 <p><strong>Download my Resume: </strong><a href="https://www.dropbox.com/scl/fi/1umb3jj8l69hjimftaxuv/Amjad_Resume-1.docx?rlkey=4ydhcjf41lh26os2llgwxt6ec&st=m45w2fk2&dl=0" download="resume.pdf" target='_blank'>Download Resume</a></p>
               </div>
