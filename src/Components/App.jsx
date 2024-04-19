@@ -18,7 +18,7 @@ function App() {
         <div className="container">
           <br /><br /><br /><br /><br /><br />
           <h1 className="animated-header">Muhammad Amjad</h1>
-          <p className="animated-subheader">Web Developer | Software Engineer</p>
+          <p className="animated-subheader">Backend Developer | Software Engineer</p>
         </div>
       </header>
 
@@ -63,6 +63,7 @@ function App() {
           <h2>Skills</h2>
           <ul className="skills">
             <li>MERN Stack (Mongo DB, Express JS, Node JS)</li>
+            <li>Django</li>
             <li>Asp.net (.net Framework) Web Forms + MVC</li>
             <li>SQL Server</li>
             <li>Java, C# and C++ Programming</li>
@@ -76,7 +77,7 @@ function App() {
           <ul>
             <li>Bachelor of Software Engineering (Ongoing) from
               Bahria University Karachi Campus,
-              Expected Year of Graduation: [2024] with Current CGPA: [3.44]</li>
+              Expected Year of Graduation: [2024]</li>
           </ul>
         </section>
 
